@@ -8,7 +8,7 @@ Dillon 启动 DragonFly BSD 项目是因为他觉得 FreeBSD 5 开发人员选�
 
 DragonFly BSD 因继续 FreeBSD 4 开始的道路而受到阻碍，DragonFly BSD 的开发在几个方面与 FreeBSD 基本系统有很大不同，包括轻量级内核线程实现和 HAMMER 文件系统。DragonFly BSD 的许多设计概念借鉴了 AmigaOS 的解决方案。
 
-DragonFly BSD 自带 i915 显卡驱动，架构仅支持 x86-64。DragonFly BSD 无 Linux 兼容层。DPorts 可与 FreeBSD Ports 兼容。需要注意地是，DragonFly BSD 的驱动支持相当落后，显卡驱动平均落后 10 年左右。
+DragonFly BSD 自带 i915 显卡驱动，架构仅支持 x86-64。DragonFly BSD 无 Linux 兼容层。DPorts 可与 FreeBSD Ports 兼容。需要注意的是，DragonFly BSD 的驱动支持相当落后，显卡驱动平均落后 10 年左右。
 
 捐赠 DragonFly BSD：<https://www.dragonflybsd.org/donations/>，看起来只支持国际 Paypal。我方已经发邮件说过此事了，并无任何反馈。
 
